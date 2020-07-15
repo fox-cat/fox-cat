@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![GitHub stats](https://readme.trnck.dev/api?username=fox-cat)
 
 <!--
 **fox-cat/fox-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
