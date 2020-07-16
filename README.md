@@ -1,5 +1,7 @@
 
-![GitHub stats](https://readme.trnck.dev/api?username=fox-cat)
+[![fox-cat's github stats](https://github-readme-stats.vercel.app/api?username=fox-cat&show_icons=true&title_color=1DB954&icon_color=586069)](https://github.com/fox-cat)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fox-cat&repo=coward&show_icons=true&title_color=1DB954)](https://github.com/fox-cat/coward)
 
 <!--
 **fox-cat/fox-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
