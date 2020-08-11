@@ -2,7 +2,7 @@
 [![fox-cat's github stats](https://github-readme-stats.vercel.app/api?username=fox-cat&show_icons=true&theme=gruvbox)](https://github.com/fox-cat)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fox-cat&repo=coward&show_icons=&theme=gruvbox)](https://github.com/fox-cat/coward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fox-cat&repo=ms&show_icons=true&theme=gruvbox)](https://github.com/fox-cat/kauw)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fox-cat&repo=kauw&show_icons=true&theme=gruvbox)](https://github.com/fox-cat/kauw)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fox-cat&repo=ms&show_icons=true&theme=gruvbox)](https://github.com/fox-cat/ms)
 
 <!--
